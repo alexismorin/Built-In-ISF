@@ -11,7 +11,7 @@ With the built-in renderer, Unity lights use a linear falloff model. In nearly e
 
 ### How to Use
 
-**This assumes you are using linear lighting and the deferred render path. I don't really use forward rendering**
+**This assumes you are using linear lighting and the deferred render path. I don't really use forward rendering but if you really need it do message me!**
 
 1. Drag in the "Built-In SIM" folder anywhere in your project.
 2. Place the *BuiltInISF* script somewhere in your scene. You can switch the falloff per-scene with this script!
