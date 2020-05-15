@@ -5,7 +5,7 @@ Around a year ago I shipped my [Falloff Customizer](https://github.com/alexismor
 
 ![falloff](images/falloff.png)
 
-With the built-in renderer, Unity lights use a linear falloff model. In nearly every single instance, this won't by what you want or compare to lighting in other game engines (or the Unity URP/HDRP)! Especially if you're using linear color space and the deferred render path, you'll probably want this issue fixed as soon as possible. With this small gizmo, you can basically just drop a script onto your Camera and then toggle ISF on or off.
+With the built-in renderer, Unity lights use a linear falloff model. In nearly every single instance, this won't be what you want or compare to lighting in other game engines (or the Unity URP/HDRP)! Especially if you're using linear color space and the deferred render path, you'll probably want this issue fixed as soon as possible. With this small gizmo, you can basically just drop a script onto your Camera and then toggle ISF on or off.
 
 ![gif](images/gif.gif)
 
